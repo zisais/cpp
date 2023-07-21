@@ -1,0 +1,1 @@
+A collection of small programs testing my skills as a learn them.
